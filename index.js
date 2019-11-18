@@ -1,2 +1,2 @@
-import thinkjs from 'thinkjs'
-export default thinkjs
+const thinkjs = require('thinkjs');
+module.exports = thinkjs
