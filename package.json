@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lushijie/thinkjs-ts.git"
+    "url": "git+https://github.com/thinkjs/thinkjs-ts.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lushijie/thinkjs-ts/issues"
+    "url": "https://github.com/thinkjs/thinkjs-ts/issues"
   },
-  "homepage": "https://github.com/lushijie/thinkjs-ts#readme",
+  "homepage": "https://github.com/thinkjs/thinkjs-ts#readme",
   "dependencies": {
     "thinkjs": "^3.2.10"
   }
