@@ -12,7 +12,7 @@ declare global {
   interface ThinkLogic extends thinkjs.Logic {
     new(ctx: ThinkContext): ThinkLogic
   }
-  interface ThinkService {
+  interface ThinkService extends thinkjs.Service {
     new(...arg: any[]): ThinkService
   }
   interface ThinkApplication extends thinkjs.Application {
